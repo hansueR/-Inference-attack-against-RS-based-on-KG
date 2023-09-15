@@ -30,15 +30,21 @@ MIA模型攻击准确性较低的原因主要有以下两点：
 设置
 
 实验组：
+
 Target model 稀疏数据集 + kg
+
 Shadow model 稀疏数据集 + kg
 
 对照组1:
+
 Target model 稀疏数据集 + kg
+
 Shadow model 稀疏数据集
 
 对照组2：
+
 Target model 稀疏数据集
+
 Shadow model 稀疏数据集
 
 若实验组MIA结果准确度更高，即可体现：
