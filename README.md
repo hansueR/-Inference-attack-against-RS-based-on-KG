@@ -4,6 +4,7 @@
 
 ![framework_MIA](framework_MIA.png)
 
+<img src="framework_MIA.png" alt="framework_MIA" style="zoom:70%;">
 
 
 借鉴了文献 [Debiasing Learning for Membership Inference Attacks Against Recommender Systems](https://arxiv.org/pdf/2206.12401.pdf) 的数据处理方式。
