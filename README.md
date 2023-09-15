@@ -65,7 +65,7 @@ Caser（Context-Aware Self-attentive Sequential Recommendation）是一种用于
 | Target    | caser     | BOOK   |
 
 
-## 实验结果：
+## 实验结果
 
 | Metrics       | Experiment Group | Control Group1 | Control Group2 |
 | ------------- | ---------------- | -------------- | -------------- |
@@ -78,7 +78,7 @@ Caser（Context-Aware Self-attentive Sequential Recommendation）是一种用于
 | Recall        | 0.70793          | 0.50193        | 0.26168        |
 | AUC           | 0.71785          | 0.69220        | 0.57207        |
 
-## 总结
+
 
 该实验初步验证了：在稀疏数据集上，加入知识图谱有助于提高MIA的攻击准确性。
 
