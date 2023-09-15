@@ -44,7 +44,7 @@ Shadow model 稀疏数据集
 
 RippleNet([arXiv](https://arxiv.org/abs/1803.03467))是一种基于知识图谱的推荐系统，它引入了偏好传播，自动传播用户的潜在偏好并探索他们在KG中的分层兴趣，克服了现有的基于嵌入和基于路径的KG感知推荐方法的局限性。
 
-![framework_RippleNet](framework_RippleNet.png)
+![framwork_RippleNet](framwork_RippleNet.png)
 
 Caser（Context-Aware Self-attentive Sequential Recommendation）是一种用于推荐系统的深度学习模型，特别适用于顺序推荐任务，如电影、音乐或商品推荐。
 
