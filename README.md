@@ -80,7 +80,7 @@ Caser（Context-Aware Self-attentive Sequential Recommendation）是一种用于
 
 
 
-该实验初步验证了：在稀疏数据集上，加入知识图谱有助于提高MIA的攻击准确性。
+该实验结果初步验证了：在稀疏数据集上，加入知识图谱有助于提高MIA的攻击准确性。
 
 
 
