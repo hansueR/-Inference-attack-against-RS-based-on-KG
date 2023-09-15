@@ -2,6 +2,8 @@
 
 本项目主要采用文献 [Membership Inference Attacks Against Recommender Systems](https://arxiv.org/abs/2109.08045)  的模型框架。
 
+![framework_MIA](framework_MIA.png)
+
 
 
 借鉴了文献 [Debiasing Learning for Membership Inference Attacks Against Recommender Systems](https://arxiv.org/pdf/2206.12401.pdf) 的数据处理方式。
